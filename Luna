@@ -49,7 +49,7 @@ local Release = "Prerelease Beta 6.1"
 local Luna = { 
 	Folder = "Luna", 
 	Options = {}, 
-  ThemeGradient = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(40, 56, 70)), ColorSequenceKeypoint.new(0.50, Color3.fromRGB(45, 74, 74)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(80, 49, 62))}
+	ThemeGradient = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(10, 15, 20)), ColorSequenceKeypoint.new(0.50, Color3.fromRGB(15, 25, 25)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(30, 10, 20))}
 }
 
 local UserInputService = game:GetService("UserInputService")
